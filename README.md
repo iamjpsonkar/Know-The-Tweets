@@ -1,4 +1,7 @@
-# Know-The-Tweets
-A basic tweet searcher, that search top 100 tweets of the searched topic.
+# JaySoft: Know The Tweets
+A simple GUI based Tweet Extractor Developed in python.
+It mainly uses Tkinter modules of python.
+ 
+![alt text](https://github.com/iamjpsonkar/Know-The-Tweets/blob/master/1.png)
 
-Just download the .exe file and run on windows.
+![alt text](https://github.com/iamjpsonkar/Know-The-Tweets/blob/master/2.png)
